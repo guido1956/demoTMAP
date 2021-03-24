@@ -29,7 +29,7 @@ class RekenenTest {
 
             }
             case "delen" -> {
-                actualResult = rekenen.vermenigvuldigen(arguments.getInteger(1), arguments.getInteger(2));
+                actualResult = rekenen.delen(arguments.getInteger(1), arguments.getInteger(2));
                 assertEquals(expectedResult, actualResult, "Deling niet juist");
 
             }

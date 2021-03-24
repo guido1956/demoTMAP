@@ -16,7 +16,7 @@ public class Rekenen {
     }
 
     public int delen (int getal1, int getal2) {
-        return 0;  // nog in ontwikkeling
+        return getal1 / getal2;
     }
 
 }
