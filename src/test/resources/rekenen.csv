@@ -1,0 +1,10 @@
+Testfile rekenen
+"telop" ,12,400,412
+"telop" ,300,400,700
+"telop" , -12,400,388
+"telop" , 10,-10,0
+"telop" , 12,400,412
+"trekaf" ,10,100,-90
+"trekaf" ,15,15,0
+"vermenigvuldig",12,12,144
+"vermenigvuldig",10,9,90
